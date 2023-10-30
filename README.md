@@ -3,7 +3,7 @@
 Been coding since the age of 13, and full-time since 2016.
 
 - read about my coding journey [here](https://medium.com/enspiral-tales/full-stack-software-developer-bootcamp-at-enspiral-dev-academy-6e9fbdac1974)
-- check out my latest work: [simpler](https://simplerlist.com)
+- check out my latest work: [Hyperis](https://hyperis.com), a continuation and evolution of [simpler](https://simplerlist.com).
 - other project: the [Life Purpose App](https://LifePurposeApp.com) (active) and [ecstatic 🌻](https://ecstatic.com) (failed startup)
 - or read my published book [LAND](https://unitism.com/land)
 
