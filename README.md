@@ -3,8 +3,8 @@
 Been coding since the age of 13, and full-time since 2016.
 
 - read about my coding journey [here](https://medium.com/enspiral-tales/full-stack-software-developer-bootcamp-at-enspiral-dev-academy-6e9fbdac1974)
-- super excited to join the awesome team at 🧊 [IcePanel](https://icepanel.io) in 2024 🚀
 - check out my latest work: [⚡️ Hyperis](https://hyperis.com), a continuation and evolution of [simpler](https://simplerlist.com), to launch late 2023.
+- putting my skills to work at 🧊 [IcePanel](https://icepanel.io) 🚀
 - other project: the [Life Purpose App](https://LifePurposeApp.com) (active) and [ecstatic 🌻](https://ecstatic.com) (failed startup)
 - or read my published book [LAND](https://unitism.com/land)
 
