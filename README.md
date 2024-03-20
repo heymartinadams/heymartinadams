@@ -3,7 +3,7 @@
 Been coding since the age of 13, and full-time since 2016.
 
 - read about my coding journey [here](https://medium.com/enspiral-tales/full-stack-software-developer-bootcamp-at-enspiral-dev-academy-6e9fbdac1974)
-- Building [Simplerlist](https://simplerlist.com), to (re-)launch at the end of February 2024.
+- Building [OneTask](https://onetask.me), to (re-)launch spring of 2024.
 - other project: the [Life Purpose App](https://LifePurposeApp.com) (active) and [ecstatic 🌻](https://ecstatic.com) (failed startup)
 - or read my published book [LAND](https://unitism.com/land)
 
